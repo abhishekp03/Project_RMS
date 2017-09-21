@@ -1,0 +1,7 @@
+MDIChilds :
+Width = 18390
+Height = 10695
+
+AdminFrame : 
+Width : 18015
+Height : 9975
